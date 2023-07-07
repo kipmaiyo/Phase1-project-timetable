@@ -70,14 +70,6 @@
     bottom: 20px;
     right: 20px;
     cursor: pointer;
-
-/*
-    padding: 3px 10px 3px 10px;
-    background-color: blue;
-    border-radius: 3px;
-    position: absolute;
-    right: 5%;
-    bottom: 0%;*/
   }
   
   footer {
@@ -124,22 +116,22 @@
   }
 
   
-  /* ... previous CSS rules ... */
+
 
 .form-data-table td {
   padding: 10px;
   text-align: center;
   border: 1px solid black;
-  white-space: nowrap; /* Prevents text wrapping */
+  white-space: nowrap; 
 }
 
 .form-data-table th:first-child,
 .form-data-table td:first-child {
   background-color: lightgrey;
-  white-space: nowrap; /* Prevents text wrapping */
+  white-space: nowrap; 
 }
 
 .form-data-table th,
 .form-data-table td {
-  padding: 10px 20px; /* Adds horizontal spacing */
+  padding: 10px 20px; 
 }
